@@ -1,0 +1,14 @@
+{
+  "name": "docker-ci-test",
+  "version": "0.0.1",
+  "description": "My playground for Docker and CI tools",
+  "main": "app.js",
+  "author": "Patrick Nguyen <superpatricko@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "3.2.4",
+    "jade": "1.11.0",
+    "mocha": "1.20.1",
+    "supertest": "1.1.0"
+  }
+}
